@@ -1,0 +1,10 @@
+{
+  "name": "Timbre Studio",
+  "description": "Clone any voice from an audio sample and synthesize expressive text-to-speech with acoustic profiling.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
